@@ -1,0 +1,2 @@
+- NO DEFAULT VALUES, NO FAIL SAFE, NO DEFENSIVE CODING.
+- FAIL FAST, let the code crash immediately on unexpected input or state.
